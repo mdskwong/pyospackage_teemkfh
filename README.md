@@ -18,7 +18,7 @@ $ pip install -i https://test.pypi.org/simple/ pyospackage_teemkfh==0.1.0
 To use pyospackage-teemkfh in your code:
 
 ```python
->>> from pyospackage-teemkfh import example
+>>> from pyospackage_teemkfh import example
 >>> example.add_numbers(1, 2)
 ```
 
