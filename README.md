@@ -2,7 +2,7 @@
 
 |        |        |
 |--------|--------|
-| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage_teemkfh.svg)](https://test.pypi.org/project/pyospackage_teemkfh/0.1.0/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage_teemkfh.svg)](https://pypi.org/project/pyospackage_teemkfh/)  |
+| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage_teemkfh.svg)](https://test.pypi.org/project/pyospackage_teemkfh/0.1.1/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage_teemkfh.svg)](https://pypi.org/project/pyospackage_teemkfh/)  |
 | Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
 pyospackage_teemkfh is a project that create a toy/practice package in the Python programming language.
