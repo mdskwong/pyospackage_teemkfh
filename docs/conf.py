@@ -1,5 +1,5 @@
 #
-# pyospackage-teemkfh documentation build configuration file
+# pyospackage_teemkfh documentation build configuration file
 #
 import os
 import sys
@@ -14,7 +14,7 @@ current_year = datetime.now().year
 
 # -- General project information -----------------------------
 # General information about the project.
-project = "pyospackage-teemkfh"
+project = "pyospackage_teemkfh"
 copyright = "Copyright © 2026 Teem KWONG"
 html_show_sphinx = False
 
@@ -133,7 +133,7 @@ html_theme = "pydata_sphinx_theme"
 # html_file_suffix = ''
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "pyospackage-teemkfh_doc"
+htmlhelp_basename = "pyospackage_teemkfh_doc"
 
 
 intersphinx_mapping = {

@@ -1,11 +1,11 @@
-# Welcome to pyospackage-teemkfh
+# Welcome to pyospackage_teemkfh
 
 |        |        |
 |--------|--------|
-| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage-teemkfh.svg)](https://test.pypi.org/project/pyospackage_teemkfh/0.1.0/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage-teemkfh.svg)](https://pypi.org/project/pyospackage-teemkfh/)  |
+| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage_teemkfh.svg)](https://test.pypi.org/project/pyospackage_teemkfh/0.1.0/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage_teemkfh.svg)](https://pypi.org/project/pyospackage_teemkfh/)  |
 | Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
-pyospackage-teemkfh is a project that create a toy/practice package in the Python programming language.
+pyospackage_teemkfh is a project that create a toy/practice package in the Python programming language.
 
 ## Get started
 
@@ -15,7 +15,7 @@ You can install this package into your preferred Python environment using pip:
 $ pip install -i https://test.pypi.org/simple/ pyospackage_teemkfh==0.1.0
 ```
 
-To use pyospackage-teemkfh in your code:
+To use pyospackage_teemkfh in your code:
 
 ```python
 >>> from pyospackage_teemkfh import example

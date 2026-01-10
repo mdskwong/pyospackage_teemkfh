@@ -36,11 +36,11 @@ keywords = []
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/mdskwong/pyospackage-teemkfh"
-"Source Code" = "https://github.com/mdskwong/pyospackage-teemkfh"
-"Bug Tracker" = "https://github.com/mdskwong/pyospackage-teemkfh/issues"
-Documentation = "https://github.com/mdskwong/pyospackage-teemkfh/blob/main/README.md"
-Download = "https://pypi.org/project/pyospackage-teemkfh/#files"
+Homepage = "https://github.com/mdskwong/pyospackage_teemkfh"
+"Source Code" = "https://github.com/mdskwong/pyospackage_teemkfh"
+"Bug Tracker" = "https://github.com/mdskwong/pyospackage_teemkfh/issues"
+Documentation = "https://github.com/mdskwong/pyospackage_teemkfh/blob/main/README.md"
+Download = "https://pypi.org/project/pyospackage_teemkfh/#files"
 
 [project.optional-dependencies]
 # The groups below should be in the [development-groups] table
