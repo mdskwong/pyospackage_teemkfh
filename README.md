@@ -2,29 +2,24 @@
 
 |        |        |
 |--------|--------|
-| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage-teemkfh.svg)](https://pypi.org/project/pyospackage-teemkfh/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage-teemkfh.svg)](https://pypi.org/project/pyospackage-teemkfh/)  |
+| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage-teemkfh.svg)](https://test.pypi.org/project/pyospackage_teemkfh/0.1.0/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage-teemkfh.svg)](https://pypi.org/project/pyospackage-teemkfh/)  |
 | Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
-*TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
-If you don't plan to publish to PyPI, you can remove them.*
-
-pyospackage-teemkfh is a project that (describe what it does here).
+pyospackage-teemkfh is a project that create a toy/practice package in the Python programming language.
 
 ## Get started
 
 You can install this package into your preferred Python environment using pip:
 
 ```bash
-$ pip install pyospackage-teemkfh
+$ pip install -i https://test.pypi.org/simple/ pyospackage_teemkfh==0.1.0
 ```
-
-TODO: Add a brief example of how to use the package to this section
 
 To use pyospackage-teemkfh in your code:
 
 ```python
->>> import pyospackage-teemkfh
->>> pyospackage-teemkfh.hello_world()
+>>> from pyospackage-teemkfh import example
+>>> example.add_numbers(1, 2)
 ```
 
 ## Copyright
