@@ -12,7 +12,7 @@ pyospackage_teemkfh is a project that create a toy/practice package in the Pytho
 You can install this package into your preferred Python environment using pip:
 
 ```bash
-$ pip install -i https://test.pypi.org/simple/ pyospackage_teemkfh==0.1.0
+$ pip install -i https://test.pypi.org/simple/ pyospackage_teemkfh==0.1.1
 ```
 
 To use pyospackage_teemkfh in your code:
